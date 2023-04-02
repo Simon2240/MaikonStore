@@ -1,0 +1,61 @@
+.nav{
+    height: 80px;
+    background: rgb(77, 2, 2);
+    display: flex;
+    align-items: center;
+    justify-content: space-between  ;
+}
+
+.title{
+    font-weight: 500;
+    font-size: 3em;
+    color: rgb(255, 255, 255);
+    margin-left: 2em;
+    text-decoration: none;
+}
+
+.title:hover{
+    transform: scale(1.1);
+    color: rgb(238, 238, 238);
+}
+
+span{
+    font-weight: 800;
+    color: rgba(255, 196, 0, 0.938);
+}
+
+.cart{
+    text-decoration: none;
+    color: rgba(255, 196, 0, 0.938);
+    margin-right: 3em;
+    font-size: 2.8em;
+}
+
+.cart:hover{
+    color: rgba(255, 196, 0, 0.938);;
+    transform: scale(1.4);
+}
+
+.carne{
+    text-decoration: none;
+    color: rgb(238, 238, 238);
+    margin-right: 2em;
+    font-size: 2em;
+}
+
+.carne:hover{
+    color: rgb(238, 238, 238);
+    border-bottom: solid 2px rgba(255, 196, 0, 0.938);;
+}
+
+.vegetal{
+    text-decoration: none;
+    color: rgb(238, 238, 238);
+    margin-right: 2em;
+    font-size: 2em;
+}
+
+.vegetal:hover{
+    color: rgb(238, 238, 238);
+    border-bottom: solid 2px rgba(255, 196, 0, 0.938);;
+}
