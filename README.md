@@ -2,9 +2,7 @@
 
 # E-commerce:
 
-Tienda de videojuegos de la marca Nintendo.
-
-Demo: https://harustore.netlify.app
+Tienda de comidas propia.
 
 # Dependencias:
 
@@ -15,4 +13,8 @@ Demo: https://harustore.netlify.app
 * "firebase": "^9.15.0": Base de datos (Backend).
 
 
-https://user-images.githubusercontent.com/106567107/210151994-d57f5a0e-428a-40d6-b777-806dcf643a27.mp4
+
+
+
+https://user-images.githubusercontent.com/93556201/229370287-d4c28a12-926b-4d15-bbea-e704f011d9a4.mp4
+
